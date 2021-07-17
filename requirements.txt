@@ -1,0 +1,8 @@
+pytest-benchmark
+cmdbench
+cgroup-utils
+cgroups
+pkg-resources
+psutil
+memory-profiler
+click
