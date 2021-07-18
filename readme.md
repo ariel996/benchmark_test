@@ -21,3 +21,7 @@ Example usage:
    
 #### MEMORY STRESS
 run the command: `$ python memory_stress.py -m [% of memory to be used]`
+
+### Reference
+
+https://github.com/GaetanoCarlucci/CPULoadGenerator/tree/Python3
